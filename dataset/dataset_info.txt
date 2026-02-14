@@ -1,0 +1,3 @@
+Dataset: Plant Leaf Disease Dataset
+Source: Kaggle
+Description: Images of healthy and diseased plant leaves.

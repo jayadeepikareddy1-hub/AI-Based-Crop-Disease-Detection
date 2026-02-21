@@ -1,0 +1,11 @@
+trained CNN model for crop disease detection
+Trained Model Information
+
+This project uses a Convolutional Neural Network (CNN) model 
+for crop disease detection.
+
+Due to large file size limitations, the trained model file 
+(cnn_model.h5) is not uploaded to this repository.
+
+The model was trained on the PlantVillage dataset 
+using TensorFlow and Keras.
